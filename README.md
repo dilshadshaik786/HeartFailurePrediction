@@ -1,3 +1,2 @@
 # HeartFailurePrediction
-
-https://heartfailureprediction100.herokuapp.com/
+https://heart-fail-prediction.herokuapp.com/
